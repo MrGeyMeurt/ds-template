@@ -1,0 +1,27 @@
+.ds-text {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ds-text-heading {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: red;
+}
+
+.ds-text-subheading {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0%;
+  color: blue;
+}
+
+.ds-text-body {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: green;
+}
